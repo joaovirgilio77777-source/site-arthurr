@@ -36,7 +36,7 @@ body {
 .logo-img {
   height: 44px;
   width: auto;
-  filter: drop-shadow(0 0 12px rgba(155,92,255,0.6));
+  filter: drop-shadow(0 0 12px rgba(65, 62, 240, 0.6));
   border-radius: 12px;
 }
 
