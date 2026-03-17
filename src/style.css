@@ -337,7 +337,7 @@ body {
 }
 
 .footer-group a:hover {
-  color: #381db1; /* Fica roxo quando passa o mouse */
+  color: #002efc; /* Fica roxo quando passa o mouse */
   transform: translateX(5px); /* Dá um leve pulinho para a direita */
 }
 
