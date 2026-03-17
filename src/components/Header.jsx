@@ -8,7 +8,7 @@ export default function Header(props) {
         style={{ cursor: 'pointer' }}
       >
         <img src="/logo.png" className="logo-img" alt="Logo Florida" />
-        <span className="logo-text">FLORIDA ROLEPLAY</span>
+        <span className="logo-text">TRICK STORE</span>
       </div>
 
       {/* STATUS DO SERVIDOR (IP REAL) */}
