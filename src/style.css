@@ -225,8 +225,8 @@ body {
 
 .glow-title {
   text-align: center;
-  color: #caa7ff;
-  text-shadow: 0 0 15px rgba(155,92,255,0.5);
+  color: #6180e7;
+  text-shadow: 0 0 15px rgba(65, 62, 240, 0.6);
   font-family: 'Orbitron', sans-serif;
   text-transform: uppercase;
 }
