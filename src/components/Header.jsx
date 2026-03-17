@@ -8,7 +8,7 @@ export default function Header(props) {
         style={{ cursor: 'pointer' }}
       >
         <img src="/logo.png" className="logo-img" alt="Logo Florida" />
-        <span className="logo-text">Trick Store</span>
+        <span className="logo-text">TRICK STORE</span>
       </div>
         
         <div style={{ width: '1px', height: '15px', background: 'rgba(255,255,255,0.1)' }}></div>
