@@ -440,7 +440,7 @@ body {
 .faq-item summary::after {
   content: '▲'; /* Ícone da seta */
   font-size: 12px;
-  color: #9b5cff; /* Roxo padrão do site */
+  color: #626cf1; /* Roxo padrão do site */
   transition: 0.4s transform;
   transform: rotate(180deg); /* Começa apontando para baixo */
 }
