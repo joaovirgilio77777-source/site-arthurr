@@ -158,9 +158,9 @@ body {
 }
 
 .category-filters button.active {
-  background: #9b5cff;
-  border-color: #9b5cff;
-  box-shadow: 0 0 15px rgba(155,92,255,0.4);
+  background: #5553fc;
+  border-color: #5c67ff;
+  box-shadow: 0 0 15px rgba(40, 24, 252, 0.4);
 }
 
 /* PRODUCTS */
