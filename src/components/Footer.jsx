@@ -3,8 +3,8 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-brand">
-          <span className="logo-text">FLORIDA ROLEPLAY</span>
-          <p>A melhor experiência de MTA:SA. Entrega semi-automática e segura.</p>
+          <span className="logo-text">TRICK STORE</span>
+          <p>A melhor experiência de Free Fire. Entrega semi-automática e segura.</p>
         </div>
         
 
@@ -18,7 +18,7 @@ export default function Footer() {
       </div>
       
       <div className="footer-bottom">
-        <p>&copy; 2026 Florida Roleplay. Todos os direitos reservados.</p>
+        <p>&copy; 2026 Trick Store. Todos os direitos reservados.</p>
       </div>
     </footer>
   );
