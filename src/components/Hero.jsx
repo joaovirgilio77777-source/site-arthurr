@@ -25,7 +25,7 @@ export default function Hero() {
     <div className="purple-fog"></div>
       <div className="hero-content">
         <div className="hero-left">
-          <span className="badge">ENTREGA AUTOMÁTICA</span>
+          <span className="badge">ENTREGA SEMIAUTOMÁTICA</span>
 
           <h1>
             BEM-VINDO À <span>LOJA</span>
