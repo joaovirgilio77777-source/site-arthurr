@@ -32,8 +32,8 @@ export default function Hero() {
           </h1>
 
           <p className="hero-text">
-  Conheça nossos principais <span>VIPs</span> e benefícios exclusivos
-  para você dominar as ruas do <span className="glow-title">Trick Store</span>!
+  Conheça nossos principais <span>Métodos</span> e produtos exclusivos
+  na <span className="glow-title">Trick Store</span>!
 </p>
 
 <a 
