@@ -195,7 +195,7 @@ useEffect(() => {
                 <div style={{ textAlign: 'right' }}>
                   <div style={{ marginBottom: '15px', display: 'flex', gap: '10px', justifyContent: 'flex-end' }}>
                     <input type="text" placeholder="Cupom" value={cupom} onChange={(e) => setCupom(e.target.value)} style={{ background: '#000', border: '1px solid #333', color: '#fff', padding: '10px', borderRadius: '5px', width: '100px' }} />
-                    <button onClick={aplicarCupom} style={{ background: '#9b5cff', color: '#fff', border: 'none', padding: '10px 15px', borderRadius: '5px', cursor: 'pointer' }}>Aplicar</button>
+                    <button onClick={aplicarCupom} style={{ background: '#2700d6', color: '#fff', border: 'none', padding: '10px 15px', borderRadius: '5px', cursor: 'pointer' }}>Aplicar</button>
                   </div>
                   <span style={{ color: '#aaa', fontSize: '14px', display: 'block' }}>TOTAL DO PEDIDO</span>
                   <span style={{ color: '#7CFFB2', fontSize: '28px', fontWeight: 'bold' }}>R$ {valorComDesconto.toFixed(2).replace(".", ",")}</span>
