@@ -33,7 +33,7 @@ export default function Hero() {
 
           <p className="hero-text">
   Conheça nossos principais <span>VIPs</span> e benefícios exclusivos
-  para você dominar as ruas do <span className="glow-title">Florida Roleplay</span>!
+  para você dominar as ruas do <span className="glow-title">Trick Store</span>!
 </p>
 
 <a 
