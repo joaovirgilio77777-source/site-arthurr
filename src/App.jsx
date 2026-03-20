@@ -144,8 +144,8 @@ useEffect(() => {
             <h2 className="glow-title">COMO ADQUIRIR</h2>
             <div className="steps-container">
               <div className="step-card"><div className="step-number">1</div><h4>Escolha o Produto</h4><p>Navegue pelas categorias e escolha o item desejado.</p></div>
-              <div className="step-card"><div className="step-number">2</div><h4>Gere o PIX</h4><p>Informe seu ID e copie o código de pagamento.</p></div>
-              <div className="step-card"><div className="step-number">3</div><h4>Receba no Jogo</h4><p>Após o pagamento, abra um ticket no discord mostrando o comprovante.</p></div>
+              <div className="step-card"><div className="step-number">2</div><h4>Gere o PIX</h4><p>Copie o código de pagamento.</p></div>
+              <div className="step-card"><div className="step-number">3</div><h4>Receba no Discord</h4><p>Após o pagamento, abra um ticket no discord mostrando o comprovante.</p></div>
             </div>
           </section>
 
