@@ -191,7 +191,7 @@ useEffect(() => {
               </div>
 
               <div style={{ marginTop: '40px', paddingTop: '20px', borderTop: '2px solid rgba(155, 92, 255, 0.2)', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
-                <button onClick={() => setPaginaAtiva("loja")} style={{ background: 'rgba(155, 92, 255, 0.1)', border: '1px solid #9b5cff', color: '#9b5cff', padding: '12px 20px', borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer' }}>← Continuar Comprando</button>
+                <button onClick={() => setPaginaAtiva("loja")} style={{ background: 'rgba(17, 0, 255, 0.1)', border: '1px solid #5c74ff', color: '#5c74fff', padding: '12px 20px', borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer' }}>← Continuar Comprando</button>
                 <div style={{ textAlign: 'right' }}>
                   <div style={{ marginBottom: '15px', display: 'flex', gap: '10px', justifyContent: 'flex-end' }}>
                     <input type="text" placeholder="Cupom" value={cupom} onChange={(e) => setCupom(e.target.value)} style={{ background: '#000', border: '1px solid #333', color: '#fff', padding: '10px', borderRadius: '5px', width: '100px' }} />
