@@ -172,7 +172,7 @@ useEffect(() => {
         <div className="checkout-page" style={{ padding: '80px 20px', minHeight: '100vh', marginTop: '60px', background: 'radial-gradient(circle at 10% 20%, rgba(43, 24, 218, 0.37) 0%, transparent 40%), radial-gradient(circle at 90% 80%, rgba(124, 255, 178, 0.05) 0%, transparent 40%)', position: 'relative' }}>
           <div style={{ maxWidth: '1100px', margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 380px', gap: '30px', position: 'relative', zIndex: 1 }}>
             
-            <div style={{ background: 'rgba(17, 17, 17, 0.7)', padding: '30px', borderRadius: '20px', border: '1px solid rgba(155, 92, 255, 0.3)', backdropFilter: 'blur(10px)', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <div style={{ background: 'rgba(17, 17, 17, 0.7)', padding: '30px', borderRadius: '20px', border: '1px solid rgba(47, 0, 255, 0.44)', backdropFilter: 'blur(10px)', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
               <div>
                 <h3 style={{ color: 'white', marginBottom: '25px' }}>Itens no Carrinho 🛒</h3>
                 {carrinho.length === 0 ? (
