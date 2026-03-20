@@ -190,7 +190,7 @@ useEffect(() => {
                 )}
               </div>
 
-              <div style={{ marginTop: '40px', paddingTop: '20px', borderTop: '2px solid rgba(155, 92, 255, 0.2)', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+              <div style={{ marginTop: '40px', paddingTop: '20px', borderTop: '2px solid rgba(27, 68, 252, 0.32)', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
                 <button onClick={() => setPaginaAtiva("loja")} style={{ background: 'rgba(0, 17, 255, 0.45)', border: '1px solid #5c74ff', color: '#5c74fff', padding: '12px 20px', borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer' }}>← Continuar Comprando</button>
                 <div style={{ textAlign: 'right' }}>
                   <div style={{ marginBottom: '15px', display: 'flex', gap: '10px', justifyContent: 'flex-end' }}>
